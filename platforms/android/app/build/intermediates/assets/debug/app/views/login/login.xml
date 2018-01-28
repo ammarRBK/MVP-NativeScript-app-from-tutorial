@@ -1,0 +1,8 @@
+<Page>
+    <Label text="hello world" />
+	    <TextField hint="E-mail adress" autocorrect="false" autocapitalizationType="none" keyboardType="email"/>
+	    <TextField hint="Password" secure="true"/>
+	    <Button text="Sign in"/>
+	    <Button text="Sign up"/>
+
+</Page>

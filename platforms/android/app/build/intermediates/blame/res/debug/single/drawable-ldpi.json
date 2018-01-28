@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo.png",
+        "source": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_delete.png",
+        "source": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_delete.png"
+    }
+]

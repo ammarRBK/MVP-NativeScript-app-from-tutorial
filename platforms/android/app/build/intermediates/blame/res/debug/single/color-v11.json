@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Ammar\\.android\\build-cache\\349e3c541e7efaf364465803ae85f747ffc9c142\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Ammar\\.android\\build-cache\\349e3c541e7efaf364465803ae85f747ffc9c142\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammar\.android\build-cache\985a44e88ad849e04fbbee1f7cdbe7a3b0d9d57a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Ammar\Desktop\New folder (2)\first-app-with-toturial\NativeScript-Projects\HelloWorld\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_f69f2a1dca3a5b5f8723eb38507633e6fa04a171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ammar\.android\build-cache\d0e8833a03907651297b347a0c3cb710cc3d05bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\Ammar\Desktop\New folder (2)\first-app-with-toturial\NativeScript-Projects\HelloWorld\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_1d9636addf2f9bf18ab014caf9e07317ec59d477.jar" />
+    </item>
+
+</items>

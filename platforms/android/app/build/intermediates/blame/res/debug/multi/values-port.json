@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ammar\\Desktop\\New folder (2)\\first-app-with-toturial\\NativeScript-Projects\\HelloWorld\\Groceries\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Ammar\\.android\\build-cache\\349e3c541e7efaf364465803ae85f747ffc9c142\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
